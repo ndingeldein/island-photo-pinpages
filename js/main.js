@@ -6,7 +6,7 @@ var scrollTrigger = 50;
 var $body = $('body');
 var $menuButton = $body.find('.menu-button');
 var $mobileNavContainer = $body.find('.mobile-nav-container');
-var $hasSubnav = $body.find('has-subnav');
+var $hasSubnav = $body.find('a.has-subnav');
 var $mobileHasSubnav = $body.find('.mobile-nav .has-subnav');
 var $desktopHasSubnav = $body.find('.main-nav .has-subnav');
 
