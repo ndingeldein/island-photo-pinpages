@@ -66,7 +66,6 @@
                         <ul class="subnav">
                             <li><a href="http://orders.islandphoto.com/Orders/" target="_self">Graduation Ceremony</a></li>
                             <li><a href="http://www.gradphotonetwork.com/Schools/QPPlus/?mode=nopin&AccountNumber=30722" target="_self">School Portraits</a></li>
-                            <li><a href="http://orders.islandphoto.com/Orders/" target="_self">Panoramics</a></li>
                             <li><a href="http://orders.islandphoto.com/apps/RaceEvents.aspx" target="_self">Races</a></li>
                             <li><a href="http://teamphotonetwork.com/QPPlus/?mode=nopin&AccountNumber=30722" target="_self">Sports</a></li>
                             <li><a href="http://www.islandphoto.com/main/order_special_events" target="_self">Special Events</a></li>
