@@ -23,8 +23,11 @@ $menuButton.on('click', function(){
 
 });
 
-// Prevent mobile navitems with subnav from executing link href
-$hasSubnav.on('click > a', function(e){
+// Prevent navitems with subnav from executing link href
+$hasSubnav.find('> a').on('click', function(e){
+	e.preventDefault();
+});
+$mobileHasSubnav.find('> a').on('click', function(e){
 	e.preventDefault();
 });
 
