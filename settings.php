@@ -42,11 +42,80 @@ $pages['race-orders'] = array(
 
 );
 
+$pages['special-events'] = array(
+
+	'name' => 'special-events',
+	'title' => 'Special Events',
+	'description' => 'Special Events description here.'
+
+);
+
+$pages['schedule-an-appointment-1'] = array(
+
+	'name' => 'schedule-an-appointment-1',
+	'title' => 'Schedule An Appointment',
+	'description' => 'Schedule An Appointment 1 description here.'
+
+);
+
+$pages['schedule-an-appointment-2'] = array(
+
+	'name' => 'schedule-an-appointment-2',
+	'title' => 'Schedule An Appointment',
+	'description' => 'Schedule An Appointment 2 description here.'
+
+);
+
+$pages['schedule-an-appointment-3'] = array(
+
+	'name' => 'schedule-an-appointment-3',
+	'title' => 'Schedule An Appointment',
+	'description' => 'Schedule An Appointment 3 description here.',
+	'layout' => 'text'
+
+);
+
+$pages['portrait-registration'] = array(
+
+	'name' => 'portrait-registration',
+	'title' => 'Portrait Registration',
+	'description' => 'Portrait Registration description here.',
+	'layout' => 'text'
+
+);
+$pages['graduation-registration'] = array(
+
+	'name' => 'graduation-registration',
+	'title' => 'Graduation Registration',
+	'description' => 'Graduation Registration description here.',
+	'layout' => 'text'
+
+);
+
+$pages['school-link'] = array(
+
+	'name' => 'school-link',
+	'title' => 'School Link',
+	'description' => 'School Link description here.',
+	'layout' => 'modal_three'
+
+);
+
+$pages['sports-link'] = array(
+
+	'name' => 'sports-link',
+	'title' => 'Sports Link',
+	'description' => 'Sports Link description here.',
+	'layout' => 'modal_three'
+
+);
+
 $pages['not-found'] = array(
 
 	'name' => 'not-found',
 	'title' => 'Not Found',
-	'description' => 'Page not found.'
+	'description' => 'Page not found.',
+	'layout' => 'text'
 
 );
 
